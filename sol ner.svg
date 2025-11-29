@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lager_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 259.45 228.12">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #1d1d1b;
+      }
+
+      .st1 {
+        stroke-linecap: round;
+      }
+
+      .st1, .st2 {
+        fill: none;
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <line class="st1" x1="10.67" y1="177.77" x2="248.78" y2="177.77"/>
+  <path class="st1" d="M77.63,177.77c-11.66-12.63-18.78-29.51-18.78-48.05,0-39.14,31.73-70.87,70.87-70.87s70.87,31.73,70.87,70.87c0,18.54-7.12,35.42-18.78,48.05"/>
+  <line class="st1" x1="129.72" y1="39.02" x2="129.72" y2="5"/>
+  <line class="st1" x1="193.87" y1="65.58" x2="217.92" y2="41.53"/>
+  <line class="st1" x1="220.43" y1="129.72" x2="254.45" y2="129.72"/>
+  <line class="st1" x1="39.02" y1="129.72" x2="5" y2="129.72"/>
+  <line class="st1" x1="65.58" y1="65.58" x2="41.53" y2="41.53"/>
+  <g>
+    <line class="st2" x1="129.72" y1="127.28" x2="129.72" y2="95.71"/>
+    <polygon class="st0" points="147.18 122.18 129.72 152.4 112.27 122.18 147.18 122.18"/>
+  </g>
+  <line class="st1" x1="36.18" y1="200.45" x2="223.27" y2="200.45"/>
+  <line class="st1" x1="81.54" y1="223.12" x2="177.91" y2="223.12"/>
+</svg>
